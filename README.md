@@ -4,7 +4,7 @@ This repository contains the full pipeline used for **genotyping-by-sequencing (
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 ash-mapping-pipeline/
@@ -18,7 +18,7 @@ ash-mapping-pipeline/
 
 ---
 
-## 🚀 Pipeline Overview
+##  Pipeline Steps
 
 | Step | Description                         | Script                     |
 |------|-------------------------------------|----------------------------|
@@ -33,7 +33,7 @@ ash-mapping-pipeline/
 
 ---
 
-## 🧪 Environments
+## Used packages within conda
 
 All tools are run in reproducible Conda environments. Activate one with:
 
@@ -55,14 +55,12 @@ envs/
 └── qtl_R.yml
 ```
 
----
-
 
 ---
 
-## 👩‍💻 Contact
+## Please Contact
 
 **Meher Afroze Ony**  
-Graduate Student, Entomology and Plant Pathology  
+PhD Candidate
 University of Tennessee, Knoxville  
 GitHub: [@MeherOny](https://github.com/MeherOny)
