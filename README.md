@@ -8,12 +8,11 @@ This repository contains the full pipeline used for **genotyping-by-sequencing (
 
 ```bash
 ash-mapping-pipeline/
-├── scripts/         # SLURM shell scripts (.sh, .qsh) for each pipeline step
+├── scripts/         # SLURM shell scripts (.sh, .qsh) for each pipeline step (04-08 Steps)
 ├── envs/            # Conda environments for all tools used
 ├── R/               # R scripts for downstream analysis and plotting
 ├── docs/            # Markdown summaries and documentation
 ├── .gitignore       # Files to ignore during version control
-├── LICENSE          # MIT License
 └── README.md        # This file
 ```
 
@@ -47,33 +46,17 @@ List of environment files:
 
 ```bash
 envs/
-├── fastqc.yml
-├── fastp.yml
-├── bwa.yml
+|── bwa.yml
 ├── gatk.yml
 ├── vcftools.yml
 ├── plink.yml
 ├── samtools.yml
-├── multiqc.yml
 ├── lepmap3.yml
 └── qtl_R.yml
 ```
 
 ---
 
-## 📊 Output & Summaries
-
-Final results (genetic maps, QTL plots, etc.) and descriptions are located in:
-
-```bash
-docs/ash_resistant_geneticmap_QTL_summaries.md
-```
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
