@@ -1,0 +1,9 @@
+name: gatk
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - gatk4
+  - picard
+  - samtools
+  - openjdk
