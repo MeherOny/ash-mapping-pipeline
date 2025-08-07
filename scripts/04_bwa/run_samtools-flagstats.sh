@@ -1,0 +1,3 @@
+#!/bin/bash
+#SBATCH -J samtools-flagstats
+...
