@@ -1,0 +1,3 @@
+#!/bin/bash
+# Loop over linkage groups to count 0 gaps
+...

@@ -1,0 +1,3 @@
+#!/bin/bash
+# Generate PNG plots using LMPlot
+...

@@ -1,0 +1,3 @@
+#!/bin/bash
+# Append average position to order files
+...
