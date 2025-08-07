@@ -1,0 +1,3 @@
+#!/bin/bash
+#SBATCH --job-name=GATK_VariantFiltration
+...
