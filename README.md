@@ -10,8 +10,7 @@ This repository contains the full pipeline used for **genotyping-by-sequencing (
 ash-mapping-pipeline/
 ├── scripts/         # SLURM shell scripts (.sh, .qsh) for each pipeline step (04-08 Steps)
 ├── envs/            # Conda environments for all tools used
-├── R/               # R scripts for downstream analysis and plotting
-├── docs/            # Markdown summaries and documentation
+├── R/               # R scripts for downstream analysis and plotting           # Markdown summaries and documentation
 ├── .gitignore       # Files to ignore during version control
 └── README.md        # This file
 ```
