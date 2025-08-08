@@ -4,7 +4,7 @@ This repository contains the full pipeline used for **genotyping-by-sequencing (
 
 ---
 
-## Repository Structure
+## Repository structure
 
 ```bash
 ash-mapping-pipeline/
@@ -17,7 +17,7 @@ ash-mapping-pipeline/
 
 ---
 
-##  Pipeline Steps
+##  Project's pipeline steps
 
 | Step | Description                         | Script                     |
 |------|-------------------------------------|----------------------------|
